@@ -1,0 +1,59 @@
+{
+    "chart_title": "My 9 Holes",
+    "data_points": [
+        {
+            "Label": "Hole 1",
+            "Par": 4,
+            "Score": 3,
+            "Putts": 1
+        },
+        {
+            "Label": "Hole 2",
+            "Par": 5,
+            "Score": 7,
+            "Putts": 3
+        },
+        {
+            "Label": "Hole 3",
+            "Par": 3,
+            "Score": 3,
+            "Putts": 1
+        },
+        {
+            "Label": "Hole 4",
+            "Par": 4,
+            "Score": 7,
+            "Putts": 2
+        },
+        {
+            "Label": "Hole 5",
+            "Par": 5,
+            "Score": 5,
+            "Putts": 1
+        },
+        {
+            "Label": "Hole 6",
+            "Par": 4,
+            "Score": 3,
+            "Putts": 0
+        },
+        {
+            "Label": "Hole 7",
+            "Par": 4,
+            "Score": 9,
+            "Putts": 3
+        },
+        {
+            "Label": "Hole 8",
+            "Par": 3,
+            "Score": 2,
+            "Putts": 1
+        },
+        {
+            "Label": "Hole 9",
+            "Par": 4,
+            "Score": 3,
+            "Putts": 0
+        }
+    ]
+}
